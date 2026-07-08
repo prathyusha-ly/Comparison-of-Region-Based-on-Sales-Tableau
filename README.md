@@ -36,7 +36,8 @@ Businesses often struggle to monitor sales performance across multiple regions a
 
 # Source: Sample Superstore Dataset
 
-The dataset contains:
+The dataset contains: 
+<a href= "https://github.com/prathyusha-ly/Comparison-of-Region-Based-on-Sales-Tableau/tree/main/Comparison%20of%20Region%20Based%20on%20Sales"> View Data Set </a>
 
 - Orders
 - Sales
