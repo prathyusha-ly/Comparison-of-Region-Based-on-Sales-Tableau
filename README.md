@@ -18,13 +18,21 @@ Businesses often struggle to monitor sales performance across multiple regions a
 - How do different sales metrics compare?
 - Which regions need improvement?
 
-## Dashboard FeaturesTools Used
+# Dashboard Features
+- Executive KPI Summary
+- Regional Sales Comparison
+- Interactive Sales Trend Analysis
+- Geographic Sales Visualization
+- Dynamic Filters
+- Comparative Sales Metrics
+- User-friendly Dashboard Navigation
+
+# Tools Used
 - Tableau Desktop
 - Microsoft Excel
 - Data Visualization
 - Dashboard Design
 - Business Analytics
-- Dataset
 
 # Source: Sample Superstore Dataset
 
