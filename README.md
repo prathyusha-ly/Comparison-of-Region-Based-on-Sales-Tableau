@@ -76,6 +76,8 @@ Some key business insights include:
 - Trend Analysis
 - Geographic Analysis
 - Storytelling with Data
+# Live Dashboard
+<a href= "https://public.tableau.com/app/profile/prathyusha.lyagala/viz/Salesdashboard_17805883147800/Dashboard1"> click here </a>
 
 # Dashboard Preview
 <img width="1707" height="925" alt="image" src="https://github.com/user-attachments/assets/74f65b53-d95f-4c34-814d-bb62475cba7d" />
